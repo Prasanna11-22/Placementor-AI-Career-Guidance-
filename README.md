@@ -1,4 +1,4 @@
-# Placementor-AI-Career-Guidance-
+# Placementor-AI-Career-Guidance
 # AI Career Guidance - Full Stack Application
 
 A comprehensive AI-powered career guidance system that helps users discover suitable career paths based on their skills, interests, and aptitude test results.
